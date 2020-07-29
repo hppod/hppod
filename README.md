@@ -1,5 +1,7 @@
 # Hello, I'm Hygor
 
+<img align="right" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif">
+
 #### About Me
 - 👨🏻‍💻 Working as a Delphi Developer
 - 👨🏻‍🏫 Studying Angular and Node.js
@@ -26,5 +28,3 @@
 - Doutor Vida
 - Asilo Web
 - Brasil e o Coronavírus
-
-> ![Alt Text](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
