@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif">
 
 #### About Me
-- 👨🏻‍💻 Working as a Delphi Developer
+- 👨🏻‍💻 Working as a Javascript Back-end Developer
 - 👨🏻‍🏫 Studying Angular and Node.js
 - 📚 Assiduous reader
 - 🏎 Petrol head
