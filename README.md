@@ -13,16 +13,17 @@
 - 🎮 I like to play Euro Truck Simulator
 
 ### Skills
-- Javascript, Typescript
+- Javascript
+- Typescript
 - Angular
 - Node.js
+- MySQL
+- MongoDB
+- RabbitMQ
+- GIT
 - Delphi
 - Java
 - SQL Server
-- MySQL
-- MongoDB
-- GIT
-- SCRUM
 
 ### Projects
 - Doutor Vida
